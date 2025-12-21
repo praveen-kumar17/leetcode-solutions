@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
