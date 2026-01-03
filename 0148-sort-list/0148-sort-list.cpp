@@ -10,21 +10,59 @@
  */
 class Solution {
 public:
+    ListNode* mergesorted(ListNode* left,ListNode* right){
+        ListNode dummy(-1);
+        ListNode* temp=&dummy;
+        while(left!=NULL && right!=NULL){
+            if(left->val<=right->val){
+                temp->next=left;
+                left=left->next;
+            }
+            else{
+                temp->next=right;
+                right=right->next;
+            }
+            temp=temp->next;
+        }
+        while(left!=NULL){
+            temp->next=left;
+            left=left->next;
+            temp=temp->next;
+        }
+        while(right!=NULL){
+            temp->next=right;
+            right=right->next;
+            temp=temp->next;
+        }
+        return dummy.next;
+    }
+    ListNode* sortinglist(ListNode* head){
+        if(head==NULL || head->next==NULL) return head;
+        ListNode* middle=findmiddle(head);
+        ListNode* right=middle->next;
+        middle->next=nullptr;
+        ListNode* left=head;
+        left=sortinglist(left);
+        right=sortinglist(right);
+        return mergesorted(left,right);
+    }
+    ListNode* findmiddle(ListNode* head){
+        ListNode* slow=head;
+        ListNode* fast=head->next;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        return slow;
+    }
     ListNode* sortList(ListNode* head) {
-        vector<int> arr;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next;
-        }
-        sort(arr.begin(),arr.end());
-        temp=head;
-        int i=0;
-        while(temp!=NULL){
-            temp->val=arr[i];
-            temp=temp->next;
-            i++;
-        }
-        return head;
+        if(head==NULL || head->next==NULL) return head;
+        ListNode* middle=findmiddle(head);
+        ListNode*right=middle->next;
+        middle->next=nullptr;
+        ListNode* left=head;
+        left=sortinglist(left);
+        right=sortinglist(right);
+        return mergesorted(left,right);
     }
 };
