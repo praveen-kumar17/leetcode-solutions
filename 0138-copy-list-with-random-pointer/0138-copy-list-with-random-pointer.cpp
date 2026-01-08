@@ -16,22 +16,43 @@ public:
 
 class Solution {
 public:
-    Node* copyRandomList(Node* head) {
-        if(head==nullptr){
-            return nullptr;
-        }
+    void createduplicates(Node* head){
         Node* temp=head;
-        unordered_map<Node*,Node*> mpp;
-        while(temp!=nullptr){
-            mpp[temp]=new Node(temp->val);
-            temp=temp->next;
+        while(temp!=NULL){
+        Node* duplicate=new Node(temp->val);
+        duplicate->next=temp->next;
+        temp->next=duplicate;
+        temp=duplicate->next;
         }
-        temp=head;
-        while(temp!=nullptr){
-            mpp[temp]->next=mpp[temp->next];
-            mpp[temp]->random=mpp[temp->random];
-            temp=temp->next;
+    }
+    void pointpointers(Node* head){
+        Node* temp=head;
+        while(temp!=NULL){
+            Node* copynode=temp->next;
+            if(temp->random!=NULL){
+                copynode->random=temp->random->next;
+            } else{
+                copynode->random=nullptr;
+            }
+            temp=temp->next->next;
         }
-        return mpp[head];
+
+    }
+    Node* copyList(Node* head){
+        Node* curr=head;
+        Node* dummy=new Node(-1);
+        Node* temp=dummy;
+        while(curr!=NULL){
+            temp->next=curr->next;
+            temp=temp->next;
+            curr->next=curr->next->next;
+            curr=curr->next;
+        }
+        return dummy->next;
+    }
+    Node* copyRandomList(Node* head) {
+        createduplicates(head);
+        pointpointers(head);
+        return copyList(head);
     }
 };
