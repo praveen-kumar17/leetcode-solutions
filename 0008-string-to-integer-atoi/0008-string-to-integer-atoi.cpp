@@ -1,27 +1,37 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int n=s.length();
-        long long ans=0;
-        int i=0;
-        int sign=1;
-        while(i<n && s[i]==' '){
-            i++;
-        }
-        if(s[i]=='-'){
-            sign=-1;
-            i++;
-        } else if(s[i]=='+'){
-            sign=1;
-            i++;
-        }
-        while(i<n && isdigit(s[i])){
-            int digit =s[i]-'0';
-            ans=ans*10+digit;
-           if(ans*sign<INT_MIN) return INT_MIN;
-           if(ans*sign>INT_MAX) return INT_MAX;
-           i++;
-        }
-        return (int)(sign*ans);
+    // Skip leading whitespaces
+    int i=0;
+    while (i < s.size() && s[i] == ' ') i++;
+
+    // Handle sign
+    int sign = 1;
+    if (i < s.size() && (s[i] == '+' || s[i] == '-')) {
+        sign = (s[i] == '-') ? -1 : 1;
+        i++;
+    }
+
+    // Call recursive helper
+    return helper(s, i, 0, sign);
+}
+const int INT_MIN_VAL = -2147483648;
+const int INT_MAX_VAL = 2147483647;
+
+// Recursive helper
+int helper(const string &s, int i, long long num, int sign) {
+    // If we are out of bounds or at a non-digit, return
+    if (i >= s.size() || !isdigit(s[i]))
+        return (int)(sign * num);
+
+    // Update num with current digit
+    num = num * 10 + (s[i] - '0');
+
+    // Clamp if overflow
+    if (sign * num <= INT_MIN_VAL) return INT_MIN_VAL;
+    if (sign * num >= INT_MAX_VAL) return INT_MAX_VAL;
+
+    // Recurse for next character
+    return helper(s, i + 1, num, sign);
     }
 };
