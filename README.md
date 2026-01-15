@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
