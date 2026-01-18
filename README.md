@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1895-largest-magic-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [1895-largest-magic-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1895-largest-magic-square) |
 ## String
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
 |  |
