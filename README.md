@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -236,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
