@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0796-rotate-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0282-expression-add-operators](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1922-count-good-numbers) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
