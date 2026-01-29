@@ -7,7 +7,7 @@ public:
         bool sign=true;
         if(divident>=0 && divisor<0) sign=false;
         if(divident<0 && divisor>=0) sign=false;
-        long n=labs(divident);
+        long n=labs((long)divident);
         long d=labs((long)divisor);
         divisor=abs((long)divisor);
         long quotient=0;
