@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1895-largest-magic-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [3637-trionic-array-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
