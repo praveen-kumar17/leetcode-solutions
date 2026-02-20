@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0944-delete-columns-to-make-sorted](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## String Matching
 |  |
 | ------- |
