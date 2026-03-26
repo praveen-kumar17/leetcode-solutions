@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
