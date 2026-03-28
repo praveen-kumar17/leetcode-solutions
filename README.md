@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0066-plus-one) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0079-word-search) |
