@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 <!---LeetCode Topics End-->
