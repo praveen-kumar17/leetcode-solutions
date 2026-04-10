@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
