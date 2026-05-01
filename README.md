@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Interactive
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
