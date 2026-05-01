@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3805-count-caesar-cipher-pairs](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 | [3815-design-auction-system](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3815-design-auction-system) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [3805-count-caesar-cipher-pairs](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Binary Indexed Tree
 |  |
 | ------- |
