@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3805-count-caesar-cipher-pairs](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
+| [3815-design-auction-system](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3815-design-auction-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [3815-design-auction-system](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3815-design-auction-system) |
 ## Queue
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [3815-design-auction-system](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3815-design-auction-system) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -483,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [3815-design-auction-system](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3815-design-auction-system) |
 <!---LeetCode Topics End-->
