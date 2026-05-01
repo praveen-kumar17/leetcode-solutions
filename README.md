@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
