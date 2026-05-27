@@ -9,8 +9,7 @@ public:
             }
         }
         if(pivot==-1){
-            reverse(nums.begin(),nums.end());
-            return;
+            return reverse(nums.begin(),nums.end());
         }
         for(int i=n-1;i>pivot;i--){
             if(nums[i]>nums[pivot]){
@@ -19,7 +18,7 @@ public:
             }
         }
         int i=pivot+1,j=n-1;
-        while(i<=j){
+        while(i<j){
             swap(nums[i++],nums[j--]);
         }
     }
