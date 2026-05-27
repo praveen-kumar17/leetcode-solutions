@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1922-count-good-numbers) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [3815-design-auction-system](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3815-design-auction-system) |
 ## Queue
 |  |
@@ -542,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
