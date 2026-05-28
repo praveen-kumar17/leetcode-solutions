@@ -2,9 +2,9 @@ class Solution {
 public:
     int maxArea(vector<int>& height) {
         int n=height.size();
-        int i=0,j=n-1;
-        int max_water=INT_MIN;
+        int max_water =INT_MIN;
         int ans=INT_MIN;
+        int i=0,j=n-1;
         while(i<j){
             int start=height[i];
             int end=height[j];
