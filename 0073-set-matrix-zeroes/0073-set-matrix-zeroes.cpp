@@ -10,8 +10,8 @@ public:
                 firstrow=true;
             }
         }
-        for(int j=0;j<n;j++){
-            if(matrix[j][0]==0){
+        for(int i=0;i<n;i++){
+            if(matrix[i][0]==0){
                 firstcol=true;
             }
         }
@@ -36,10 +36,12 @@ public:
             }
         }
         if(firstcol){
-            for(int j=0;j<n;j++){
-                matrix[j][0]=0;
+            for(int i=0;i<n;i++){
+                matrix[i][0]=0;
             }
         }
-        return ;
+        return;
+        
+
     }
 };
