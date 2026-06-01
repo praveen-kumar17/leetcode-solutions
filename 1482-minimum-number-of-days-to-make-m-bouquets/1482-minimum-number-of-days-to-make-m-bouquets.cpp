@@ -1,41 +1,41 @@
 class Solution {
 public:
-    int ifpossible(vector<int>& nums,int day,int m,int k){
-        int n=nums.size();
-        int count=0;
-        int bouquets=0;
+    int findmax(vector<int>& bloomDay){
+        int maxi=INT_MIN;
+        int n=bloomDay.size();
         for(int i=0;i<n;i++){
-            if(nums[i]<=day){
-                count++;
-                if(count==k){
-                    bouquets++;
-                    count=0;
-                }
-            }
-            else{
-                count=0;
-            }
+            maxi=max(maxi,bloomDay[i]);
         }
-        return bouquets>=m;
+        return maxi;
     }
-    int minDays(vector<int>& nums, int m, int k) {
-        long long totalflowers=1LL*m*k;
-        int n=nums.size();
-        int result =-1;
-        if(totalflowers>n) return -1;
-        int mini=*min_element(nums.begin(),nums.end());
-        int maxi=*max_element(nums.begin(),nums.end());
-        int low=mini, high=maxi;
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(ifpossible(nums,mid,m,k)){
-                result=mid;
-                high=mid-1;
+    int find(vector<int>& bloomDay, int k, int days){
+    int cnt = 0, bouquets = 0;
+
+    for(int i = 0; i < bloomDay.size(); i++){
+        if(bloomDay[i] <= days){
+            cnt++;
+            if(cnt == k){
+                bouquets++;
+                cnt = 0;
             }
-            else{
+        }else{
+            cnt = 0;
+        }
+    }
+    return bouquets;
+    }
+    int minDays(vector<int>& bloomDay, int m, int k) {
+        if((long long)m*k> bloomDay.size()) return -1;
+        int low=1,high=findmax(bloomDay);
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            int bloomed=find(bloomDay,k,mid);
+            if(bloomed>=m){
+                high=mid-1;
+            }else{
                 low=mid+1;
             }
         }
-        return result;
+        return low;
     }
 };
