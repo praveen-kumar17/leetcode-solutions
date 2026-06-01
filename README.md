@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3637-trionic-array-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Prefix Sum
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String Matching
 |  |
 | ------- |
