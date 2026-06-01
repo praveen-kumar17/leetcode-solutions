@@ -1,19 +1,18 @@
 class Solution {
 public:
-    int ifpossible(vector<int>& nums,int k,int maxi){
+    int findsubarray(vector<int>& nums,int k,int maxi){
+        int subarrays=1;
+        int sum=0;
         int n=nums.size();
-        long long sum=0;
-        int arrays =1;
         for(int i=0;i<n;i++){
             if(sum+nums[i]<=maxi){
                 sum+=nums[i];
-            }
-            else{
-                arrays++;
+            }else{
+                subarrays++;
                 sum=nums[i];
             }
         }
-        return arrays;
+        return subarrays;
     }
     int splitArray(vector<int>& nums, int k) {
         int n=nums.size();
@@ -23,12 +22,11 @@ public:
         int ans=-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            int arrays=ifpossible(nums,k,mid);
-            if(arrays<=k){
+            int subarrays=findsubarray(nums,k,mid);
+            if(subarrays<=k){
                 ans=mid;
                 high=mid-1;
-            }
-            else{
+            }else{
                 low=mid+1;
             }
         }
