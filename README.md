@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0473-matchsticks-to-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0496-next-greater-element-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0473-matchsticks-to-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0282-expression-add-operators) |
+| [0473-matchsticks-to-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0473-matchsticks-to-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0693-binary-number-with-alternating-bits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
@@ -577,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
