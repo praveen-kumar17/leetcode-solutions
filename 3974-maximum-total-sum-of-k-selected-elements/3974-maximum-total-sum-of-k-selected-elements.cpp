@@ -8,7 +8,7 @@ public:
                 total_sum+=1LL*nums[i]*mul;
                 mul--;
             }else{
-                total_sum+=nums[i];
+                total_sum+=1LL*nums[i];
             }
         }
         return total_sum;
