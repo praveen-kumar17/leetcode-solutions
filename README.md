@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0648-replace-words](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0648-replace-words) |
 ## Sorting
 |  |
 | ------- |
