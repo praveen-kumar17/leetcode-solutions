@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
