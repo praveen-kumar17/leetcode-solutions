@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1895-largest-magic-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1895-largest-magic-square) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String Matching
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3815-design-auction-system](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3815-design-auction-system) |
 ## Monotonic Queue
 |  |
