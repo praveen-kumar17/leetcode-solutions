@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -779,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
