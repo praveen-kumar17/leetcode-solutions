@@ -806,4 +806,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
