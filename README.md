@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3637-trionic-array-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
