@@ -7,7 +7,7 @@ public:
         }
         return sum;
     }
-    int f(int ind,vector<int>& nums,int diff,vector<vector<int>>& dp){
+    int f(int ind,vector<int>& nums,int diff){
         if(ind==0){
             if(diff==0 && nums[0]==0){
                 return 2;
@@ -17,15 +17,12 @@ public:
             }
             return 0;
         }
-        if(dp[ind][diff]!=-1){
-            return dp[ind][diff];
-        }
-        int notpick=f(ind-1,nums,diff,dp);
+        int notpick=f(ind-1,nums,diff);
         int pick=0;
         if(diff>=nums[ind]){
-             pick=f(ind-1,nums,diff-nums[ind],dp);
+             pick=f(ind-1,nums,diff-nums[ind]);
         }
-        return dp[ind][diff]=pick+notpick;
+        return pick+notpick;
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n=nums.size();
@@ -34,7 +31,6 @@ public:
         if(total_sum-target < 0 || (total_sum-target)%2!=0){
             return 0;
         }
-        vector<vector<int>>dp(n,vector<int>(diff+1,-1));
-        return f(n-1,nums,diff,dp);
+        return f(n-1,nums,diff);
     }
 };
