@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -813,4 +817,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
