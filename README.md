@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -904,4 +905,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
