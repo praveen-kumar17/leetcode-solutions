@@ -3,14 +3,14 @@ public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
         int n=mat.size();
         int m=mat[0].size();
+        vector<vector<int>>vis(n,vector<int>(m,0));
+        vector<vector<int>>ans(n,vector<int>(m,0));
         queue<pair<pair<int,int>,int>> q;
-        vector<vector<int>> vis(n,vector<int>(m,0));
-        vector<vector<int>> ans(n,vector<int>(m,0));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0){
-                    q.push({{i,j},0});
                     vis[i][j]=1;
+                    q.push({{i,j},0});
                 }
             }
         }
@@ -23,11 +23,11 @@ public:
             q.pop();
             ans[row][col]=dis;
             for(int i=0;i<4;i++){
-                int n_row=row+drow[i];
-                int n_col=col+dcol[i];
-                if(n_row>=0 && n_col>=0 && n_row<n && n_col<m && vis[n_row][n_col]!=1){
-                    vis[n_row][n_col]=1;
-                    q.push({{n_row,n_col},dis+1});
+                int new_row=row+drow[i];
+                int new_col=col+dcol[i];
+                if(new_row>=0 && new_col>=0 && new_col<m && new_row<n && vis[new_row][new_col]!=1 && mat[new_row][new_col]==1){
+                    vis[new_row][new_col]=1;
+                    q.push({{new_row,new_col},dis+1});
                 }
             }
         }
