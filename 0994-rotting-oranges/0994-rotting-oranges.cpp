@@ -3,33 +3,33 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int n=grid.size();
         int m=grid[0].size();
-        queue<pair<pair<int,int>,int>> q;
-        vector<vector<int>> vis(n,vector<int>(m,0));
+        queue<pair<pair<int,int>,int>>q;
+        vector<vector<int>>vis(n,vector<int>(m,0));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==2){
                     q.push({{i,j},0});
-                    vis[i][j]=2;
                 }
             }
         }
-        int tm=0;
         int drow[]={-1,0,1,0};
         int dcol[]={0,1,0,-1};
+        int max_time=0;
         while(!q.empty()){
-            int r=q.front().first.first;
-            int c=q.front().first.second;
-            int t=q.front().second;
+            int row=q.front().first.first;
+            int col=q.front().first.second;
+            int time=q.front().second;
             q.pop();
-            tm=max(tm,t);
+            max_time=max(max_time,time);
             for(int i=0;i<4;i++){
-                int row=r+drow[i];
-                int col=c+dcol[i];
-                if(row>=0 && col>=0 && row<n && col<m && vis[row][col]!=2 && grid[row][col]==1){
-                    q.push({{row,col},t+1});
-                    vis[row][col]=2;
+                int new_row=row+drow[i];
+                int new_col=col+dcol[i];
+                if(new_row>=0 && new_col>=0 && new_row<n && new_col<m && !vis[new_row][new_col] && grid[new_row][new_col]==1){
+                    vis[new_row][new_col]=2;
+                    q.push({{new_row,new_col},time+1});
                 }
             }
+
         }
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
@@ -38,6 +38,7 @@ public:
                 }
             }
         }
-        return tm;
+        return max_time;
+
     }
 };
