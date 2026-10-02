@@ -1,16 +1,16 @@
 class Solution {
 public:
-    void generate(int n,int open,int closed,string curr,vector<string>& res){
-        if(curr.length()==2*n){
+    void solve(int open,int closed,string curr,vector<string>& res){
+        if(open==0 && closed==0){
             res.push_back(curr);
             return;
         }
-        if(open<n) generate(n,open+1,closed,curr+'(',res);
-        if(closed<open) generate(n,open,closed+1,curr+')',res);
+        if(open>0) solve(open-1,closed,curr+'(',res);
+        if(closed>open) solve(open,closed-1,curr+')',res);
     }
     vector<string> generateParenthesis(int n) {
         vector<string> res;
-        generate(n,0,0,"",res);
+        solve(n,n,"",res);
         return res;
     }
 };
