@@ -36,7 +36,7 @@ void compute(string pat,vector<int>& lps,int m){
                 }
                 else{
                     ans=i-m;
-                    j=lps[j-1];
+                    //j=lps[j-1];
                 }
             }
             else if(txt[i]!=pat[j]){
