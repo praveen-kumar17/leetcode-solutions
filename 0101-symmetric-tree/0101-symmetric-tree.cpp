@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-    bool Check(TreeNode* n1,TreeNode* n2){
-        if(n1==nullptr && n2==nullptr){
+    bool f(TreeNode* p,TreeNode* q){
+        if(p==nullptr && q==nullptr){
             return true;
         }
-        if(n1==nullptr || n2==nullptr){
+        if(p==nullptr || q==nullptr){
             return false;
         }
-        return n1->val == n2->val && Check(n1->left,n2->right) && Check(n1->right,n2->left);
+        return (p->val==q->val) && f(p->left,q->right) && f(p->right,q->left);
     }
     bool isSymmetric(TreeNode* root) {
-        return Check(root->left,root->right);
+        return f(root->left,root->right);
     }
 };
