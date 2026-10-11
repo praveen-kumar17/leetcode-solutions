@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
