@@ -1,0 +1,5 @@
+# Write your MySQL query statement below
+SELECT PRODUCT_NAME ,YEAR, PRICE
+FROM SALES
+JOIN PRODUCT
+USING (PRODUCT_ID);
