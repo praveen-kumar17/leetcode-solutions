@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3637-trionic-array-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3805-count-caesar-cipher-pairs](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Prefix Sum
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## String Matching
