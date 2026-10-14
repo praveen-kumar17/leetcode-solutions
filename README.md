@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Matrix
