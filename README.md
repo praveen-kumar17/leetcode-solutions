@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Stack
 |  |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Simulation
 |  |
 | ------- |
