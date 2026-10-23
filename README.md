@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1922-count-good-numbers) |
@@ -1066,4 +1068,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
