@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
