@@ -1086,4 +1086,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
