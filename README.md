@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3805-count-caesar-cipher-pairs](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 | [3843-first-element-with-unique-frequency](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/praveen-kumar17/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Matrix
